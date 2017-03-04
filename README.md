@@ -1,2 +1,2 @@
 # cyclic-search
-Simple cyclic search implementation
+Simple Cyclic-Search algorithm implementation
