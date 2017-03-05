@@ -1,6 +1,6 @@
 """
 This an example module that demonstrates the use of the cyclic search on data that is included with
-with the project.
+the project.
 """
 
 import sys
